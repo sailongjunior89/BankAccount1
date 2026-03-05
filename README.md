@@ -12,10 +12,4 @@ totalInterestEarned() -- sum the interest of all accounts to be earned
 printAccounts() – print out all the accounts
  ---------------------------
  
-Account, CurrentAccount, OverdraftAccount, SavingsAccout class
-deposit()
-withdraw()
-transferTo()
-creditInterest()
-calculateInterest()
-toString()
+Account, CurrentAccount, OverdraftAccount, SavingsAccout class -> deposit(), withdraw(), transferTo(), creditInterest(), calculateInterest() and toString()
